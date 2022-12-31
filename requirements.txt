@@ -4,6 +4,6 @@ matplotlib==3.6.0
 matplotlib-inline==0.1.6
 plotly==5.11.0
 fpdf==1.7.2
-requests==2.7.0
+requests==2.27.1
 beautifulsoup4==4.11.1
 seaborn==0.12.2
