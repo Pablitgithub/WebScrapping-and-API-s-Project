@@ -1,10 +1,10 @@
 # WebScrapping-and-API-s-Project 
-En este repositorio trabajaremos con la información obtenida de una API y de una web de apuestas mediante la técnina de webscrapping para analizar ciertos aspectos
+En este repositorio trabajaremos con la información obtenida de una API y de una web de apuestas mediante la técnina de webscrapping para analizar ciertos aspectos. Será necesario descargar todos los archivos que aparecen el repositorio.
 
 ## API  
 (analisis_nba.py)
 
-En este programa mediante una ETL, obtenemos información de los equipos de la NBA DE UNA API(https://sportsdata.io/), en concreto de los Brooklyn Nets, con el uso de otras librerías como pandas o seaborn realizamos un análisis exahustivo sobre ciertas estadísticas del equipo y finalmente pasamos la información a formato PDF, quedando como resultado un reporte ilustrativo sobre la situación del equipo. Es necesaria la utilización del config.txt
+En este programa mediante una ETL, obtenemos información de los equipos de la NBA DE UNA API(https://sportsdata.io/), en concreto de los Brooklyn Nets, con el uso de otras librerías como pandas o seaborn realizamos un análisis exahustivo sobre ciertas estadísticas del equipo y finalmente pasamos la información a formato PDF, quedando como resultado un reporte ilustrativo sobre la situación del equipo. Es necesaria la utilización del config.txt.
 
 ## WebScrapping 
 (predicciones_webscrapping.py)
@@ -14,4 +14,4 @@ En este otro programa obtenemos de la misma forma la información(ETL) pero en e
 
 ### Indtrucciones
 
-Serán necesarias las librerías que aparecen en el requirements.txt y las credenciales en el fichero config.txt para una buena utilización de los siguientes programas
+Serán necesarias las librerías que aparecen en el requirements.txt y las credenciales en el fichero config.txt para una buena utilización de los siguientes programas.
